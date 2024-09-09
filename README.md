@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey There! I'm Arihant Sharma 🐱  
+I'm a fullstack developer **highly** interested in the field of ML and AI. I'm a sucker for always trying to upskill my code and my projects!
+I enjoy creating apps using new technologies I come across, and i always look for ways to improve the projects i'm working on.
 
-<!--
-**yuuaki1/yuuaki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack :octocat:  
+- I am always looking to learn, so i don't mind switching frameworks for projects but i mostly use Next, Typescript, Django, Postgre and Shadcdn.
+- Learning PyTorch (work in progress) 🐈‍⬛
 
-Here are some ideas to get you started:
+![vro-vro-cat](https://github.com/user-attachments/assets/b71ab3ec-a99a-44f8-b737-c2d29f5b81f3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals 😼
+- To make an AI more powerful than ChatGPT-Strawberry
+- Make production grade web apps
+
+## Links 🔗
+- Email: arihantsharma4067@gmail.com
+- Github: [yuuaki1](https://github.com/yuuaki1)
