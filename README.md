@@ -6,7 +6,7 @@ I enjoy creating apps using new technologies I come across, and i always look fo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,python,django,redux,tailwind,pytorch,git,linux,typescript,postgres,shadcdn,mongodb,firebase,sqlite,mysql,prisma,supabase,vite,visualstudio)](https://skillicons.dev)
 
 ## Tech Stack :octocat:  
-- I am always looking to learn, so i don't mind switching frameworks for projects but i mostly use Next, Typescript, Django, Postgre and Shadcdn.
+- I am always looking to learn, so i don't mind switching frameworks for projects but i mostly use Next, Typescript, Django, Postgre and Shadcdn/Aceternity.
 - Learning Rust 🦀 (work in progress) 🐈‍⬛
 
 ![vro-vro-cat](https://github.com/user-attachments/assets/a8ce8455-bac1-4ad4-88aa-d68007d70652)
