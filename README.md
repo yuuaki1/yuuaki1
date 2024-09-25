@@ -7,7 +7,7 @@ I enjoy creating apps using new technologies I come across, and i always look fo
 
 ## Tech Stack :octocat:  
 - I am always looking to learn, so i don't mind switching frameworks for projects but i mostly use Next, Typescript, Django, Postgre and Shadcdn.
-- Learning PyTorch (work in progress) 🐈‍⬛
+- Learning Rust 🦀 (work in progress) 🐈‍⬛
 
 ![vro-vro-cat](https://github.com/user-attachments/assets/a8ce8455-bac1-4ad4-88aa-d68007d70652)
 
