@@ -7,13 +7,9 @@ I enjoy creating apps using new technologies I come across, and i always look fo
 
 ## Tech Stack :octocat:  
 - I am always looking to learn, so i don't mind switching frameworks for projects but i mostly use Next, Typescript, Django, Postgre and Shadcdn/Aceternity.
-- Learning Rust 🦀 (work in progress) 🐈‍⬛
+- Learning Solidity and Rust 🦀 (work in progress) 🐈‍⬛
 
 ![vro-vro-cat](https://github.com/user-attachments/assets/a8ce8455-bac1-4ad4-88aa-d68007d70652)
-
-## Goals 😼
-- To make an AI more powerful than ChatGPT-Strawberry
-- Make production grade web apps
 
 ## Links 🔗
 - Email: arihantsharma4067@gmail.com
