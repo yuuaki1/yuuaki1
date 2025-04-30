@@ -12,6 +12,5 @@ I enjoy creating apps using new technologies I come across, and i always look fo
 ![vro-vro-cat](https://github.com/user-attachments/assets/a8ce8455-bac1-4ad4-88aa-d68007d70652)
 
 ## Links 🔗
-- Email: arihantsharma4067@gmail.com
 - Github: [yuuaki1](https://github.com/yuuaki1)
 - [Support me through college!](https://buymeacoffee.com/yuuak1) ☕
