@@ -1,4 +1,4 @@
-# Hey There! I'm Arihant Sharma 🐱  
+# Hey There! 🐱  
 I'm a fullstack developer **highly** interested in the field of ML and AI. I'm a sucker for always trying to upskill my code and my projects!
 I enjoy creating apps using new technologies I come across, and i always look for ways to improve the projects i'm working on.
 
